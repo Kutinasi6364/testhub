@@ -1,1 +1,1 @@
-print("YES World")
+print("New World")
